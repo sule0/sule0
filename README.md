@@ -4,19 +4,33 @@
 I’m a developer focused on Machine Learning and Computer Vision.  
 I enjoy building intelligent systems that solve real-world problems.  
 
-📫 Reach me on LinkedIn:  
-https://www.linkedin.com/in/sulenurcakir/
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sulenurcakir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sulenurckr) 
 
-# 💻 Tech Stack:
+## 🛠 Tech Stack
+
+### 🤖 AI & Computer Vision
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 
+### 🌐 Backend & Database
+![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black)
+
+### 📱 Frontend & Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+## 🛠 Tech Stack
+
+**AI & Computer Vision:** Python, TensorFlow, OpenCV  
+**Backend:** .NET, SQL Server  
+**Frontend & Mobile:** React Native, JavaScript  
+**Tools:** Firebase, Git
 
 # # 🚀 Focus Areas
 
