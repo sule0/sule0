@@ -12,7 +12,6 @@ https://www.linkedin.com/in/sulenurcakir/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sulenurcakir) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sulenurckr) 
 
 # 💻 Tech Stack:
-## 🧠 Core Technologies
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
