@@ -24,13 +24,7 @@ I enjoy building intelligent systems that solve real-world problems.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-## 🛠 Tech Stack
-
-**AI & Computer Vision:** Python, TensorFlow, OpenCV  
-**Backend:** .NET, SQL Server  
-**Frontend & Mobile:** React Native, JavaScript  
-**Tools:** Firebase, Git
+ Firebase, Git
 
 # # 🚀 Focus Areas
 
