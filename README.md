@@ -1,9 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7B42C&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Computer+Vision+Developer;Building+OCR+Systems)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
 I’m a developer focused on Machine Learning and Computer Vision.  
 I enjoy building intelligent systems that solve real-world problems.  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7B42C&size=25&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Computer+Vision+Developer;Building+OCR+Systems)](https://git.io/typing-svg)
+
 📫 Reach me on LinkedIn:  
 https://www.linkedin.com/in/sulenurcakir/
 
